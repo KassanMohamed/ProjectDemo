@@ -1,0 +1,15 @@
+C:\kassan\Interview\InterviewProject\InterviewProjectApplication\bin\Debug\net6.0\InterviewProjectApplication.deps.json
+C:\kassan\Interview\InterviewProject\InterviewProjectApplication\bin\Debug\net6.0\InterviewProjectApplication.dll
+C:\kassan\Interview\InterviewProject\InterviewProjectApplication\bin\Debug\net6.0\InterviewProjectApplication.pdb
+C:\kassan\Interview\InterviewProject\InterviewProjectApplication\obj\Debug\net6.0\InterviewProjectApplication.csproj.AssemblyReference.cache
+C:\kassan\Interview\InterviewProject\InterviewProjectApplication\obj\Debug\net6.0\InterviewProjectApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\kassan\Interview\InterviewProject\InterviewProjectApplication\obj\Debug\net6.0\InterviewProjectApplication.AssemblyInfoInputs.cache
+C:\kassan\Interview\InterviewProject\InterviewProjectApplication\obj\Debug\net6.0\InterviewProjectApplication.AssemblyInfo.cs
+C:\kassan\Interview\InterviewProject\InterviewProjectApplication\obj\Debug\net6.0\InterviewProjectApplication.csproj.CoreCompileInputs.cache
+C:\kassan\Interview\InterviewProject\InterviewProjectApplication\obj\Debug\net6.0\InterviewProjectApplication.dll
+C:\kassan\Interview\InterviewProject\InterviewProjectApplication\obj\Debug\net6.0\refint\InterviewProjectApplication.dll
+C:\kassan\Interview\InterviewProject\InterviewProjectApplication\obj\Debug\net6.0\InterviewProjectApplication.pdb
+C:\kassan\Interview\InterviewProject\InterviewProjectApplication\obj\Debug\net6.0\ref\InterviewProjectApplication.dll
+C:\kassan\Interview\InterviewProject\InterviewProjectApplication\bin\Debug\net6.0\InterviewProjectDomain.dll
+C:\kassan\Interview\InterviewProject\InterviewProjectApplication\bin\Debug\net6.0\InterviewProjectDomain.pdb
+C:\kassan\Interview\InterviewProject\InterviewProjectApplication\obj\Debug\net6.0\InterviewProjectApplication.csproj.CopyComplete
